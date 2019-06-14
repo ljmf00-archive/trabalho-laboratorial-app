@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trabalho Laboratorial</string>
+    <string name="name_colon">Nome:</string>
+    <string name="number_colon">Numero:</string>
+    <string name="name">Nome</string>
+    <string name="number">Numero</string>
+    <string name="add">Adicionar</string>
+    <string name="teacher_colon">Professor:</string>
+    <string name="student_colon">Alunos:</string>
+</resources>
